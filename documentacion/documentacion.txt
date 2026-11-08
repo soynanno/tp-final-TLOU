@@ -1,0 +1,26 @@
+DOCUMENTACIÓN DE PROMPTS - USO DE INTELIGENCIA ARTIFICIAL
+Alumna: Nadina Butera
+Materia: Tecnología de la Información
+Proyecto: Landing Page "The Last of Us"
+
+A continuación, se detallan los prompts (instrucciones) utilizados con la IA para la resolución de dudas, corrección de código y diseño del proyecto:
+
+1. "Tengo que hacer un trabajo práctico final para primer año de software. Es una landing page con 5 secciones sobre The Last of Us. Necesito que me corrijas todo el código porque tengo muchos errores y me estoy estresando. Tiene que tener HTML semántico, formulario Netlify, variables CSS, Google Fonts, iconos, Grid/Flexbox, animaciones, SEO y diseño responsivo."
+
+2. "Me pasás links de Google Fonts con letras apocalípticas para mi página, pero que se entiendan y sean legibles."
+
+3. "¿Por qué no puedo moverme a la sección brote desde la navbar? Siento que algo tapa el título." (Solución: Se agregó scroll-margin-top por el nav fijo).
+
+4. "¿Me ayudas a elegir la paleta de colores y un diseño acorde al juego?
+
+5. "Algo pasa que no se ven las imágenes de fondo y las tarjetas de los infectados. ¿Cómo agrego las imágenes a las tarjetas?
+
+6. "Estoy poniendo los videos locales y se ven gigantes. Corregime el style para que se vean bien en las tarjetas de momentos, tipo cuadritos chiquitos."
+
+7. "Hice un truco de subir los clips a YouTube para que no pesen y poder subir todo a Netlify. ¿Cómo hago para que se vean adentro de las tarjetas apenas clickean y no me manden a YouTube?"
+
+8. "Ayudaaa no me anda el formulario. Me sale error 404 en la página de gracias al enviar." (Solución: Se quitó el ".html" del action y se usó "/gracias").
+
+9. "Me falta hacer la documentación de prompts que me pide el profe y el archivo README.md detallando escuela, carrera, materia, descripción, objetivo, tecnologías, etc. ¿Me ayudás a redactarlo?"
+
+
